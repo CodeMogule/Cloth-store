@@ -1,0 +1,130 @@
+@media  only screen and (min-width: 992px){
+
+    body{
+        background-color: black !important;
+        overflow-x: hidden;
+    }
+
+    #headline{
+        font-family: Gope;
+        list-style-type: none;
+        display: flex;
+        font-size: 4rem;
+        margin: 1rem 0rem 0rem 37rem;
+        
+    }
+    .zip{
+        color: white;
+    }
+    .zap{
+        color: #08F7FE;
+    }
+
+    #buttons{
+       width: 100%;
+       display: flex;
+       gap: 3.5rem;
+       margin: 1rem 0rem 0rem 28rem;
+       font-family: Warden;
+    }
+
+    .btn{
+        color:white!important;
+        border-color: #08F7FE !important ;
+    }
+
+    .btn:hover{
+        background: #08F7FE !important ;
+    }
+    .mb-3{
+        margin-left: 34.5rem;
+        margin-right: 33rem;
+    }
+
+    #search-btn{
+        margin : 0rem 0rem 10rem 31.3rem;
+        position: relative;
+        bottom: 3.5rem;
+    }
+
+    a{
+        text-decoration: none !important;
+    }
+
+    #first-line{
+        display: grid;
+        grid-template-columns: auto auto auto;
+        font-family: Warden
+    }
+
+    .first-tshirt{
+        width: 100rem !important;
+    }
+    .first-pants{
+       position: relative;
+       right: 80rem;
+       width: 100rem !important;
+    }
+    .first-shoes{
+        position: relative;
+        right: 160rem;
+        width: 100rem !important;
+    }
+
+    .cycle-tshirt{
+        width: 15%;
+        height: 15rem;
+        margin-left:18rem;
+        position: relative;
+        bottom: 17rem;
+        margin-bottom: -22rem;
+        border-bottom: 3rem solid  #08F7FE  ;
+        flex-grow: 1rem;
+    }
+    .cycle-text{
+        position: relative;
+        bottom: 1.5rem;
+        left: 18.5rem;
+        color: white !important;
+        font-size: 1rem;
+    }
+
+
+#second-line{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin-top: 13rem;
+}
+
+.first-shades{
+    width: 100rem !important;
+}
+.second-tshirts{
+   position: relative;
+   right: 80rem;
+   width: 100rem !important;
+}
+.second-pants{
+    position: relative;
+    right: 160rem;
+    width: 100rem !important;
+}
+
+.space-2{
+    display: inline-block;
+        margin-left: 99px;
+}
+
+.space-2-edit{
+    display: inline-block;
+        margin-left: 130px;
+}
+
+
+    tab{
+        display: inline-block;
+        margin-left: 105px;
+    }
+    
+    
+}
