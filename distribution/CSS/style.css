@@ -56,6 +56,10 @@ h1 span{
     color: rgba(39, 37, 37, 0.644);
 }
 
+.btn-active{
+    background-color: #fbc531;
+}
+
 /* search-bar*/
 .search{
     text-align: center;
