@@ -23,6 +23,7 @@ for(let x = 0 ; btn.length>x ; x++){
     })
 }
 
+
 const textBox = document.querySelector('.search input')
 
 textBox.addEventListener('keyup',function(ele){
